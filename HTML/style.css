@@ -90,3 +90,16 @@ footer {
   justify-content: center;
   margin: 3rem;
 }
+
+span {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem;
+  padding: 0;
+  align-items: stretch;
+  justify-content: center;  
+}
+
+span img {
+  margin: 1rem;
+}
